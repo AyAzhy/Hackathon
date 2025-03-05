@@ -1,4 +1,7 @@
 # Hackathon
 
 ## Projemin Konusu:
-> Verimli Su Tüketimi/Kullanımı
+> Atık Ayırma
+
+## Projemin Türü:
+> Yapay Zeka İçeren Bir Discord Botu
